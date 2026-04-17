@@ -13,7 +13,7 @@ A automação utiliza o protocolo **CDP (Chrome DevTools Protocol)** para se con
 ## 📋 Pré-requisitos
 1. Ter o Node.js instalado.
 2. Abrir o Chrome via terminal com o comando:
-   `chrome.exe --remote-debugging-port=9222`
+   `"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222`
 3. Realizar o login no iFood e navegar até a tela de cadastro manual.
 
 ## 📖 Instruções
